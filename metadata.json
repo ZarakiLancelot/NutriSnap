@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap - Food Analysis",
+  "description": "Expert nutrition assistant powered by Gemini 3. Upload food photos for detailed nutritional breakdown, macro analysis, and personalized healthy recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
